@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -52,6 +53,14 @@
               id=""
               class="form-control mb-2"
               placeholder="Confirm Passsword"
+            />
+            <label for="">Age</label>
+              <input
+              type="password"
+              name=""
+              id=""
+              class="form-control mb-2"
+              placeholder="Age"
             />
            
               <button class="btn btn-success form-control mb-4">
